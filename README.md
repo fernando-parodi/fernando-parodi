@@ -23,15 +23,17 @@ Based in **Dubai, UAE**. Working across engineering, hardware, software, and fie
 
 **Engineering principle:** *A working demonstration is a starting point. Reproducible performance under realistic conditions is the goal.*
 
-## Public projects
+## Featured project
 
-### 🍞 [Tangzhong Lab](https://github.com/fernando-parodi/tangzhong-lab) — Interactive bread & pizza calculator
+### 🍞 Tangzhong Lab — Formula-driven bread & pizza calculator
 
-[**Launch live app ↗**](https://fernando-parodi.github.io/tangzhong-lab/) · [**Explore source ↗**](https://github.com/fernando-parodi/tangzhong-lab)
+[<img src="https://raw.githubusercontent.com/fernando-parodi/tangzhong-lab/main/assets/tangzhong-showcase.svg" width="740" alt="Tangzhong Lab — one dough, two directions, with bread and pizza modes and a precise reference formula" />](https://fernando-parodi.github.io/tangzhong-lab/)
 
-A responsive, dependency-free web application built around a Tangzhong–Poolish formula. It calculates scaled ingredients using baker's percentages and provides adapted bread and pizza workflows, an interactive checklist, and a timer.
+**[↗ Launch the interactive app](https://fernando-parodi.github.io/tangzhong-lab/)** · **[Explore the source repository](https://github.com/fernando-parodi/tangzhong-lab)**
 
-**Demonstrates:** mathematical modeling · JavaScript · accessible web UI · automated tests · static deployment.
+A working, dependency-free web application for scaling a Tangzhong–Poolish recipe by target dough weight. It separates the preferments and final dough, provides bread and pizza methods, and includes step tracking, a timer, and printable batch calculations.
+
+**Technical focus:** deterministic formula calculations · JavaScript modules · responsive UI · automated regression tests · GitHub Pages deployment.
 
 ## Engineering work in development
 
